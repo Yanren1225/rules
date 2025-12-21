@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,clash.metacubex.one
   - DOMAIN-SUFFIX, bing.com
   - DOMAIN-SUFFIX, bing.com.cn
   - DOMAIN-SUFFIX, blobstore.apple.com
