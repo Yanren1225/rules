@@ -1,42 +1,42 @@
-+.metacubex.one
-+.clash.metacubex.one
-+.bing.com
-+.bing.com.cn
-+.blobstore.apple.com
-+.discord.com
-+.disqus.com
-+.dmhy.org
-+.e-hentai.org
-+.engadget.com
-+.exhentai.org
-+.fonts.googleapis.com
-+.genius.com
-+.gist.github.com
-+.github.com
-+.githubusercontent.com
-+.gitlab.com
-+.google.com
-+.google.com.hk
-+.hath.network
-+.ifixit.com
-+.imgur.com
-+.intellij.net
-+.ipfs.io
-+.mstdn.social
-+.ni.com
-+.onedrive.live.com
-+.pixiv.net
-+.quora.com
-+.reddit.com
-+.dmhy.org
-+.soundcloud.com
-+.steamcommunity.com
-+.telegram.org
-+.tv.apple.com
-+.twitch.tv
-+.v2ex.com
-+.vimeo.com
-+.wikipedia.com
-+.wikipedia.org
-+.youtube.com
-+.zoom.us
+DOMAIN-SUFFIX, metacubex.one
+DOMAIN-SUFFIX, clash.metacubex.one
+DOMAIN-SUFFIX, bing.com
+DOMAIN-SUFFIX, bing.com.cn
+DOMAIN-SUFFIX, blobstore.apple.com
+DOMAIN-SUFFIX, discord.com
+DOMAIN-SUFFIX, disqus.com
+DOMAIN-SUFFIX, dmhy.org
+DOMAIN-SUFFIX, e-hentai.org
+DOMAIN-SUFFIX, engadget.com
+DOMAIN-SUFFIX, exhentai.org
+DOMAIN-SUFFIX, fonts.googleapis.com
+DOMAIN-SUFFIX, genius.com
+DOMAIN-SUFFIX, gist.github.com
+DOMAIN-SUFFIX, github.com
+DOMAIN-SUFFIX, githubusercontent.com
+DOMAIN-SUFFIX, gitlab.com
+DOMAIN-SUFFIX, google.com
+DOMAIN-SUFFIX, google.com.hk
+DOMAIN-SUFFIX, hath.network
+DOMAIN-SUFFIX, ifixit.com
+DOMAIN-SUFFIX, imgur.com
+DOMAIN-SUFFIX, intellij.net
+DOMAIN-SUFFIX, ipfs.io
+DOMAIN-SUFFIX, mstdn.social
+DOMAIN-SUFFIX, ni.com
+DOMAIN-SUFFIX, onedrive.live.com
+DOMAIN-SUFFIX, pixiv.net
+DOMAIN-SUFFIX, quora.com
+DOMAIN-SUFFIX, reddit.com
+DOMAIN-SUFFIX, dmhy.org
+DOMAIN-SUFFIX, soundcloud.com
+DOMAIN-SUFFIX, steamcommunity.com
+DOMAIN-SUFFIX, telegram.org
+DOMAIN-SUFFIX, tv.apple.com
+DOMAIN-SUFFIX, twitch.tv
+DOMAIN-SUFFIX, v2ex.com
+DOMAIN-SUFFIX, vimeo.com
+DOMAIN-SUFFIX, wikipedia.com
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, youtube.com
+DOMAIN-SUFFIX, zoom.us
