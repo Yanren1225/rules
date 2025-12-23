@@ -1,5 +1,25 @@
 DOMAIN-SUFFIX, getui.com
 
-DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamcontent.com
+DOMAIN, steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX, steamserver.net
+DOMAIN-SUFFIX, steamcontent.com
+
+# Windows 更新
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,mp.microsoft.com
+
+# Office
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onenote.com
+
+# 微软基础服务
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,msn.com
