@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX, cloudflare.com
+DOMAIN-SUFFIX, cloudflareaccess.com
 DOMAIN-SUFFIX, metacubex.one
 DOMAIN-SUFFIX, clash.metacubex.one
 DOMAIN-SUFFIX, bing.com
