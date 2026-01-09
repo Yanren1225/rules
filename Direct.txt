@@ -1,3 +1,7 @@
+# 快舟
+DOMAIN-SUFFIX, corp.hon-flex.com
+DOMAIN-SUFFIX, kuaizhou.net
+
 DOMAIN-SUFFIX, getui.com
 
 DOMAIN, steamcdn-a.akamaihd.net
