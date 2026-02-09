@@ -1,3 +1,9 @@
+# Google Play Fix
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn–ngstr-lra8j.com
+DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
+
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,metacubex.one
@@ -11,7 +17,6 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,exhentai.org
-DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,gist.github.com
 DOMAIN-SUFFIX,github.com
