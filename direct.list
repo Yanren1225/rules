@@ -1,7 +1,6 @@
-# 快舟
-DOMAIN-SUFFIX,kuaizhou.net
-
-DOMAIN-SUFFIX,getui.com
+# Google Play Fix
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,services.googleapis.cn
 
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamserver.net
